@@ -59,7 +59,7 @@ ATSInsightPro simplifies the resume crafting process with the following key feat
 
 We value your feedback! If you have any suggestions or encounter issues, please don't hesitate to reach out to the maintainer.
 
-Maintainer: [Sumit Kumar Jha](https://linkedin.com/in/sumitkumarjha-)
+Maintainer: [Sumit Kumar Jha](https://www.linkedin.com/in/-sumitkumarjha/)
 
 
 Your input helps us improve ATSInsightPro and make it even more powerful for crafting effective resumes.
