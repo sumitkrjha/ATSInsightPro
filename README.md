@@ -1,17 +1,10 @@
 # ATSInsightPro
 
-![ATSInsightPro Logo](images/ATSInsightPro_Logo.png)
+
+[Project Demo.webm](https://github.com/user-attachments/assets/ba952f4c-4865-4b53-810e-b70f9ca0df09)
+
 
 Revolutionize your resume crafting with ATSInsightPro, our cutting-edge React app. This application seamlessly integrates the OpenAI API and Chakra UI to provide essential keywords, ensuring your resume sails through Applicant Tracking Systems (ATS) for guaranteed visibility and success.
-
-# ATSInsightPro
-
-![ATSInsightPro Logo](images/ATSInsightPro_Logo.png)
-
-Revolutionize your resume crafting with ATSInsightPro, our cutting-edge React app. This application seamlessly integrates the OpenAI API and Chakra UI to provide essential keywords, ensuring your resume sails through Applicant Tracking Systems (ATS) for guaranteed visibility and success.
-
-
-
 
 ## Key Features
 
@@ -73,4 +66,4 @@ Your input helps us improve ATSInsightPro and make it even more powerful for cra
 
 ---
 
-![Thank You](images/thank_you.gif)
+![Thank You](https://github.com/user-attachments/assets/f362672a-bfb2-40c9-8168-31b70c9b49d1)
